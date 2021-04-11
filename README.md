@@ -1,8 +1,8 @@
 
 
 # Wirecard SDK IONIC By Caio Tiengo
-> The easiest way and fastest way to integrate Wirecard to your IONIC application
-Remember, this is owned by Wirecard/Moip.
+> The easiest way and fastest way to integrate Wirecard to your IONIC application.
+Remember, this is owned by Wirecard/Moip!
 
 Now you can have:
 - Transparent payments in your Ionic App
@@ -13,7 +13,14 @@ Now you can have:
 - Open node_modules 
 - Go to @angular-devkit > build-angular > src > webpack > configs > browser.js
 - Find the line 82 or find where's "node:false"
-- add the line node: { crypto: true, stream: true, fs: "empty", net: "empty", tls: "empty" }
+- change the line to node: { crypto: true, stream: true, fs: "empty", net: "empty", tls: "empty" }
+- Save it, and you're good to go!
+
+# In some cases (Very important)
+- Open node_modules 
+- Go to @angular-devkit > build-angular > models > webpack.config >browser.js 
+- Find where's "node:false"
+- change the line to node: { crypto: true, stream: true, fs: "empty", net: "empty", tls: "empty" }
 - Save it, and you're good to go!
 
 # Any questions?
