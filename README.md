@@ -9,7 +9,7 @@ Now you can have:
 - Create all your connections with Wirecard/Moip directly
 
 # Steps (Very important)
-> Please, follow the steps below before use!
+> Please, follow the steps below before use it!
 - Open node_modules 
 - Go to @angular-devkit > build-angular > src > webpack > configs > browser.js
 - Find the line 82 or find where's "node:false"
