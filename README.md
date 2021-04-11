@@ -2,6 +2,7 @@
 
 # Wirecard SDK IONIC By Caio Tiengo
 > The easiest way and fastest way to integrate Wirecard to your IONIC application
+Remember, this is owned by Wirecard/Moip.
 
 Now you can have:
 - Transparent payments in your Ionic App
@@ -16,7 +17,7 @@ Now you can have:
 - Save it, and you're good to go!
 
 # Any questions?
- Linkedin:  [Caio Tiengo](https://linkedin.com/caiotiengo)
+ Linkedin:  [Caio Tiengo](https://www.linkedin.com/in/caiotiengo/)
 
 **Summary**
 
@@ -1060,5 +1061,5 @@ moip.webhook.getAll()
 
 ## Contributors
 
-[Caio Tiengo](https://linkedin.com/caiotiengo)
+[Caio Tiengo](https://www.linkedin.com/in/caiotiengo/)
 
