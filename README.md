@@ -2,7 +2,10 @@
 
 # Wirecard SDK IONIC By Caio Tiengo
 > The easiest way and fastest way to integrate Wirecard to your IONIC application
-> IONIC module to integrate MOIP v2 and subscriptions API
+
+Now you can have:
+- Transparent payments in your Ionic App
+- Create all your connections with Wirecard/Moip directly
 
 # Steps (Very important)
 > Please, follow the steps below before use!
@@ -11,8 +14,9 @@
 - Find the line 82 or find where's "node:false"
 - add the line node: { crypto: true, stream: true, fs: "empty", net: "empty", tls: "empty" }
 - Save it, and you're good to go!
-- Import normally 
- 
+
+# Any questions?
+ Linkedin:  [Caio Tiengo](https://linkedin.com/caiotiengo)
 
 **Summary**
 
@@ -1056,5 +1060,5 @@ moip.webhook.getAll()
 
 ## Contributors
 
-- [Caio Tiengo](https://linkedin.com/caiotiengo)
+[Caio Tiengo](https://linkedin.com/caiotiengo)
 
