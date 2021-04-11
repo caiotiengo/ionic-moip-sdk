@@ -1,7 +1,7 @@
 
 
-# Wirecard SDK IONIC By Caio Tiengo
-> The easiest way and fastest way to integrate Wirecard to your IONIC application.
+# MOIP SDK IONIC By Caio Tiengo
+> The easiest way and fastest way to integrate MOIP to your IONIC application.
 Remember, this is owned by Wirecard/Moip!
 
 Now you can have:
