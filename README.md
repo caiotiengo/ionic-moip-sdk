@@ -1068,5 +1068,8 @@ moip.webhook.getAll()
 
 ## Contributors
 
-[Caio Tiengo](https://www.linkedin.com/in/caiotiengo/)
-
+- [Caio Tiengo](https://www.linkedin.com/in/caiotiengo/)
+- [Igor Lopes](https://github.com/Igor-Lopes)
+- [Daniel Leonardo](https://github.com/danielfnz)
+- [Luiz Fernando](https://github.com/lfernando-silva)
+- [Karl Alexander](https://github.com/karlsmarx)
