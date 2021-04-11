@@ -1,0 +1,24 @@
+{
+  "name": "ionic-moip-sdk",
+  "version": "1.0.0",
+  "description": "This is a Ionic version of MOIP-SDK-NODE, updated by me. It helps you to get transparent payments in Ionic apps, from version 3 untill infinite (:",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caiotiengo/ionic-moip-sdk.git"
+  },
+  "author": "Caio Tiengo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/caiotiengo/ionic-moip-sdk/issues"
+  },
+  "homepage": "https://github.com/caiotiengo/ionic-moip-sdk#readme"
+}
